@@ -1,0 +1,17 @@
+C:\Users\Aysu\Desktop\kodlar\SayıBulmaSıralama\SayıBulmaSıralama\bin\Debug\net6.0-windows\SayıBulmaSıralama.exe
+C:\Users\Aysu\Desktop\kodlar\SayıBulmaSıralama\SayıBulmaSıralama\bin\Debug\net6.0-windows\SayıBulmaSıralama.deps.json
+C:\Users\Aysu\Desktop\kodlar\SayıBulmaSıralama\SayıBulmaSıralama\bin\Debug\net6.0-windows\SayıBulmaSıralama.runtimeconfig.json
+C:\Users\Aysu\Desktop\kodlar\SayıBulmaSıralama\SayıBulmaSıralama\bin\Debug\net6.0-windows\SayıBulmaSıralama.dll
+C:\Users\Aysu\Desktop\kodlar\SayıBulmaSıralama\SayıBulmaSıralama\bin\Debug\net6.0-windows\SayıBulmaSıralama.pdb
+C:\Users\Aysu\Desktop\kodlar\SayıBulmaSıralama\SayıBulmaSıralama\obj\Debug\net6.0-windows\SayıBulmaSıralama.csproj.AssemblyReference.cache
+C:\Users\Aysu\Desktop\kodlar\SayıBulmaSıralama\SayıBulmaSıralama\obj\Debug\net6.0-windows\SayıBulmaSıralama.Form1.resources
+C:\Users\Aysu\Desktop\kodlar\SayıBulmaSıralama\SayıBulmaSıralama\obj\Debug\net6.0-windows\SayıBulmaSıralama.csproj.GenerateResource.cache
+C:\Users\Aysu\Desktop\kodlar\SayıBulmaSıralama\SayıBulmaSıralama\obj\Debug\net6.0-windows\SayıBulmaSıralama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aysu\Desktop\kodlar\SayıBulmaSıralama\SayıBulmaSıralama\obj\Debug\net6.0-windows\SayıBulmaSıralama.AssemblyInfoInputs.cache
+C:\Users\Aysu\Desktop\kodlar\SayıBulmaSıralama\SayıBulmaSıralama\obj\Debug\net6.0-windows\SayıBulmaSıralama.AssemblyInfo.cs
+C:\Users\Aysu\Desktop\kodlar\SayıBulmaSıralama\SayıBulmaSıralama\obj\Debug\net6.0-windows\SayıBulmaSıralama.csproj.CoreCompileInputs.cache
+C:\Users\Aysu\Desktop\kodlar\SayıBulmaSıralama\SayıBulmaSıralama\obj\Debug\net6.0-windows\SayıBulmaSıralama.dll
+C:\Users\Aysu\Desktop\kodlar\SayıBulmaSıralama\SayıBulmaSıralama\obj\Debug\net6.0-windows\refint\SayıBulmaSıralama.dll
+C:\Users\Aysu\Desktop\kodlar\SayıBulmaSıralama\SayıBulmaSıralama\obj\Debug\net6.0-windows\SayıBulmaSıralama.pdb
+C:\Users\Aysu\Desktop\kodlar\SayıBulmaSıralama\SayıBulmaSıralama\obj\Debug\net6.0-windows\SayıBulmaSıralama.genruntimeconfig.cache
+C:\Users\Aysu\Desktop\kodlar\SayıBulmaSıralama\SayıBulmaSıralama\obj\Debug\net6.0-windows\ref\SayıBulmaSıralama.dll
